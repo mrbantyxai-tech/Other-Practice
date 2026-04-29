@@ -1,0 +1,29 @@
+body{
+    color: white;
+    background-color: black;
+}
+
+h1{
+  font-family: "Staatliches", sans-serif;
+  letter-spacing: 2px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.sec{
+    font-family: "Nunito", sans-serif;
+    color: green;
+    font-style: italic;
+    text-decoration: none;
+}
+
+h2{
+    font-family: "Nunito", sans-serif;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+}
